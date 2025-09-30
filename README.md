@@ -5,7 +5,7 @@ CRUD API untuk Users Module dengan FastAPI
  1. Buat virtual environment: <br>
     py -m venv venv <br>
     venv\Scripts\activate
- 2. Install dependencies:
+ 2. Install dependencies: <br>>
     pip install -r requirements.txt
  3. jalankan server:
     ## Endpoint
