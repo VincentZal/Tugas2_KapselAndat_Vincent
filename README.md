@@ -25,5 +25,7 @@ Setelah server dijalankan, dokumentasi interaktif API bisa diakses di:
 
 - Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - ReDoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+![Swagger UI](images/users%20crud%20api.png)
+![ReDoc](images/users%20crud%20api2.png)
 
 
