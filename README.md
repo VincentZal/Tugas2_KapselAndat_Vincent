@@ -18,6 +18,8 @@ CRUD API untuk Users Module dengan FastAPI
 ## Testing
 Jalankan unit test: 
 py -m pytest
+
+Jalankan server : py -m uvicorn app.main:app --reload
     
 ## Dokumentasi API
 
