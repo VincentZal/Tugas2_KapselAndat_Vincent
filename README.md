@@ -27,8 +27,8 @@ Setelah server dijalankan, dokumentasi interaktif API bisa diakses di:
 - ReDoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
 ## Gambar
-![Swagger UI](images/users%20crud%20api.jpeg)
-![ReDoc](images/users%20crud%20api2.jpeg)
+![Swagger UI](images/users%20crud%20api.jpg)
+![ReDoc](images/users%20crud%20api2.jpg)
 
 
 
